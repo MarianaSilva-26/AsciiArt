@@ -6,10 +6,10 @@ namespace AsciiArt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("  ||     ||");
+            Console.WriteLine("   ||     ||");
             Console.WriteLine(@"   \\ () //  ");
             Console.WriteLine(@"   //(__)\\");
-            Console.WriteLine("   ||     ||");
+            Console.WriteLine("   ||     ||"); 
             
         }   
     }
